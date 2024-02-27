@@ -1,2 +1,0 @@
-import{C as a,W as t}from"./CoreExtension-584164f0.js";function e(){import.meta.url,import("_").catch(()=>1);async function*n(){}}class s extends a{async run(o){o.fontManager.addFontFace(new t("Roboto",{},"/fonts/Roboto-Regular.ttf")),o.fontManager.addFontFace(new t("NotoSansJP",{},"/fonts/NotoSansJP-Regular.ttf"))}}export{e as __vite_legacy_guard,s as default};
-//# sourceMappingURL=AppCoreExtensions-5e46046a.js.map
