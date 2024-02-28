@@ -1,0 +1,2 @@
+import{C as t,S as s}from"./CoreExtension-8a5de560.js";function a(){import.meta.url,import("_").catch(()=>1);async function*o(){}}class p extends t{async run(n){n.fontManager.addFontFace(new s("Notosans",{},"msdf",n,"/TVapp-LightningJS/fonts/noto-sans-cjk-jp-msdf.png","/TVapp-LightningJS/fonts/noto-sans-cjk-jp-msdf.json"))}}export{a as __vite_legacy_guard,p as default};
+//# sourceMappingURL=AppCoreExtensions-b1509c9a.js.map
